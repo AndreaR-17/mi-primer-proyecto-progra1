@@ -5,4 +5,8 @@ Rama
 hecha 
 por
 andrea
+git es una herramienta para utilizar comandos en los programas    
 # commit
+Tania Andrea 
+# commit
+
